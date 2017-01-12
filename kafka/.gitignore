@@ -1,0 +1,30 @@
+.idea
+bin
+dependency-reduced-pom.xml
+target
+*.DS_Store
+*.iml
+*.ipr
+*.iws
+*.pyc
+*.swp
+*.xcuserdatad
+*.xcuserstate
+*.bak
+
+
+# rebel
+rebel.xml
+
+# eclipse
+.settings
+.project
+.classpath
+.metadata*
+.recommenders*
+Servers*
+
+~/
+crm-script.log
+*.log
+FFFF/
